@@ -21,21 +21,3 @@ Datos demográficos de Los Ángeles: Estos datos proporcionarán información so
 Datos geográficos de Los Ángeles: Estos datos incluirán información sobre la ubicación geográfica de los vecindarios, como coordenadas de latitud y longitud, lo que permitirá visualizar y analizar los datos en mapas.
 Datos de tráfico peatonal y vehicular: Estos datos proporcionarán información sobre el flujo de personas y vehículos en diferentes áreas de la ciudad, lo que puede ayudar a identificar ubicaciones con alta visibilidad y accesibilidad para los restaurantes veganos.
 
-
-Sección de Datos
-
-Los datos para este proyecto se obtendrán de varias fuentes:
-
-***Datos de ubicación de Foursquare:*** Utilizaremos la API de Foursquare para obtener información sobre restaurantes veganos y otros establecimientos relacionados con la alimentación en Los Ángeles. Los datos incluirán el nombre, la dirección, las coordenadas geográficas, el tipo de cocina y las calificaciones de los usuarios. Estos datos se utilizarán para identificar áreas con alta concentración de restaurantes veganos y analizar la competencia en diferentes vecindarios.
-
----
-
-***Datos demográficos de Los Ángeles:*** Estos datos se obtendrán de fuentes públicas, como el censo de EE. UU. o el gobierno local, y proporcionarán información sobre la población, el ingreso medio y otras características socioeconómicas relevantes en cada vecindario. Estos datos nos ayudarán a identificar áreas con una mayor demanda potencial de restaurantes veganos y a seleccionar ubicaciones que puedan ser más atractivas para el público objetivo.
-
----
-
-***Datos geográficos de Los Ángeles:*** Estos datos, que incluyen las coordenadas de latitud y longitud de los vecindarios, se obtendrán de fuentes públicas o de mapas geográficos en línea. Los datos geográficos nos permitirán visualizar la distribución de restaurantes veganos y otros establecimientos relacionados con la alimentación en un mapa, facilitando el análisis de las áreas de interés.
-
----
-
-***Datos de tráfico peatonal y vehicular:*** Estos datos se obtendrán de fuentes públicas, como el gobierno local o empresas de análisis de tráfico. La información sobre el flujo de personas y vehículos en diferentes áreas de la ciudad nos ayudará a identificar ubicaciones con alta visibilidad y accesibilidad, lo que puede ser un factor clave para el éxito de un nuevo restaurante vegano.
